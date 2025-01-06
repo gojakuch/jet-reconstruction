@@ -34,7 +34,7 @@ LorentzVectors = "0.4.3"
 Makie = "0.20, 0.21"
 MuladdMacro = "0.2.4"
 SIMD = "3.6"
-StructArrays = "0.6.18"
+StructArrays = "0.6.18, 0.7"
 julia = "1.9"
 
 [extras]
